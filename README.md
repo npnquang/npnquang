@@ -7,7 +7,7 @@ Software Engineer Student
 I am a passionate and open-minded software engineering student at Monash University. I love learning new things every day and applying these knowledge to real world scenarios. In addition, I would love to share it with my peers!
 
 * 🌍  I'm based in Melbourne, VIC, AU.
-* ✉️  You can contact me at [nguyenjoe0201@gmail.com](mailto:nguyenjoe0201@gmail.com)
+* ✉️  You can contact me at [james.pn.nguyen@gmail.com](mailto:james.pn.nguyen@gmail.com)
 * 🧠  I'm learning React, ROS, NodeJS, Rust, C++
 
 ### Skills
