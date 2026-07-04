@@ -8,7 +8,7 @@ I am a passionate and open-minded software engineering student at Monash Univers
 
 * 🌍  I'm based in Melbourne, VIC, AU.
 * ✉️  You can contact me at [james.pn.nguyen@gmail.com](mailto:james.pn.nguyen@gmail.com)
-* 🧠  I'm learning React, ROS, NodeJS, Rust, C++
+* 🧠  I'm learning SpringBoot, Azure and AWS
 
 ### Skills
 
